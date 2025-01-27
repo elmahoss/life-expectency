@@ -5,7 +5,7 @@
       "ordinal": 0,
       "scrollPosition": {
         "x": 0,
-        "y": 0
+        "y": 25.714285714285715
       },
       "nodes": [
         {
@@ -14,6 +14,7 @@
             "y": 0
           },
           "nodeIndex": "Country",
+          "nodeLineageTag": "74109f22-fea0-431e-b478-136e3acf05a0",
           "size": {
             "height": 197,
             "width": 262
@@ -34,10 +35,11 @@
         },
         {
           "location": {
-            "x": 15.574275274955653,
-            "y": 477.5
+            "x": 0,
+            "y": 684.64285714285711
           },
           "nodeIndex": "Year",
+          "nodeLineageTag": "2dd08857-ddd2-47ae-b4f7-616ae54eb678",
           "size": {
             "height": 118,
             "width": 234
@@ -59,11 +61,12 @@
         {
           "location": {
             "x": 918.65942021996466,
-            "y": 40
+            "y": 0
           },
           "nodeIndex": "Variance Analysis",
+          "nodeLineageTag": "5b5d8b4f-74ef-4fb7-806f-b04dfac6bf0c",
           "size": {
-            "height": 337,
+            "height": 545.57142857142856,
             "width": 234
           },
           "zIndex": 0
@@ -86,8 +89,9 @@
             "y": 610
           },
           "nodeIndex": "Years",
+          "nodeLineageTag": "ab7651ea-ea25-4d29-aa82-3903120080d4",
           "size": {
-            "height": 213,
+            "height": 145,
             "width": 234
           },
           "zIndex": 0
@@ -110,8 +114,9 @@
             "y": 610
           },
           "nodeIndex": "Population",
+          "nodeLineageTag": "a28a14a6-2507-4315-ac6e-0bcc16765a33",
           "size": {
-            "height": 175,
+            "height": 180.71428571428578,
             "width": 234
           },
           "zIndex": 0
@@ -119,23 +124,25 @@
         {
           "location": {
             "x": 289.57427527495565,
-            "y": 863
+            "y": 835.85714285714289
           },
           "nodeIndex": "Buckets",
+          "nodeLineageTag": "898f55d7-9a76-43c9-8530-32862b68a953",
           "size": {
-            "height": 175,
+            "height": 202.14285714285711,
             "width": 234
           },
           "zIndex": 0
         },
         {
           "location": {
-            "x": 903.79689102143675,
-            "y": 402
+            "x": 1053.7968910214367,
+            "y": 610.57142857142856
           },
           "nodeIndex": "Extra Year",
+          "nodeLineageTag": "805f6912-6c51-406f-9351-bdf9c32642ed",
           "size": {
-            "height": 213,
+            "height": 145,
             "width": 234
           },
           "zIndex": 0
@@ -146,15 +153,16 @@
             "y": 0
           },
           "nodeIndex": "Indicators",
+          "nodeLineageTag": "1e777276-e70b-4838-a9d0-f1d4099c7173",
           "size": {
-            "height": 412,
+            "height": 530.57142857142856,
             "width": 354
           },
           "zIndex": 0
         }
       ],
       "name": "All tables",
-      "zoomValue": 100,
+      "zoomValue": 70,
       "pinKeyFieldsToTop": false,
       "showExtraHeaderInfo": false,
       "hideKeyFieldsWhenCollapsed": false,
